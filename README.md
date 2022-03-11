@@ -1,7 +1,7 @@
 
 # Myproject
 
-Ouais ouais Test B1 !
+Ouais ouais Test B2 !
 
 LOCAL HOSTING DE LA VILLARDIERE 
 GITHUB GITHUB GITHUB GITHUB GITHUB encore GITHUB
